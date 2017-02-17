@@ -2,6 +2,10 @@ html, body {
     height: 100%;
 }
 
+a, a:hover, a:focus {
+    text-decoration: none;
+}
+
 .full-width {
     width: 100%;
 }
@@ -4155,7 +4159,7 @@ form:after {
 }
 
 .login_content a:hover {
-    text-decoration: underline
+    text-decoration: none;
 }
 
 .login_content h1 {
